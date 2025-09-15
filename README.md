@@ -2,7 +2,7 @@
 
 **`Developer`**
 
-I'm an aspiring full-stack and game developer. All my projects are for personal and academic only. My current goal is to learn more about new languages and implement them into some fun projects.
+I'm a full-stack and game developer. All my projects are for personal, testing, and academic purposes only. My current goal is to learn more about new languages and implement them into some fun projects.
 
 <p align="left">
   <a href="https://www.facebook.com/SharwinMarbella" target="_blank">
